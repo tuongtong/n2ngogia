@@ -4480,7 +4480,7 @@ ul {
     line-height: 1.16667em;
     margin-bottom: 0.41667em; }
   .slider-content__description {
-    color: #fff;
+    color: #0B0400;
     font-size: 1.0625em;
     font-weight: 500;
     line-height: 1.76471em; }
@@ -4530,7 +4530,7 @@ ul {
     .slider.-style-1 .slider-dots li.slick-active .slider-dot, .slider.-style-5 .slider-dots li.slick-active .slider-dot {
       background-color: #f26460; }
     .slider.-style-1 .slider-dots li .slider-dot, .slider.-style-5 .slider-dots li .slider-dot {
-      background-color: #fff; }
+      background-color: #A64300; }
     .slider.-style-1 .slider__carousel__item, .slider.-style-5 .slider__carousel__item {
       overflow: hidden; }
       .slider.-style-1 .slider__carousel__item.slick-active .slider-background, .slider.-style-5 .slider__carousel__item.slick-active .slider-background {
@@ -6233,7 +6233,3 @@ ul {
               color: #f26460; }
             .wishlist__table__wrapper table tbody tr td:last-child .remove-btn:hover {
               border-color: #f26460; }
-.mot { color: #black;
-}
-.hai { color: #black;
-}
